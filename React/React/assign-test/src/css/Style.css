@@ -1,0 +1,28 @@
+
+table{
+  width: 450px;
+  border-spacing: 10%;
+  margin: 10px auto;
+}
+
+.navbar{
+  height: 50px;
+  background-color: #282c34 ;
+  text-align: left;
+  display: flex;
+  padding-left:20px;
+  padding-bottom: 10px;
+}
+
+h4{
+  text-align: left;
+  color: white;
+}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #4CAF40;
+  color: white;
+}
